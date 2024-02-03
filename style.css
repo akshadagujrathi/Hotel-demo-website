@@ -398,6 +398,11 @@ iframe {
     /* position: relative; */
     background-position: center;
 }
+img.sign {
+    object-fit: contain;
+    width: 80px;
+    height: 80px;
+}
 /* .mission .row:before {
     content: "";
     background-image: url('./images/sign-person.png');
